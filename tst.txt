@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 162A-61E7
+
+ Directory of C:\Users\Rishikant\Desktop\Project
+
+31-May-19  08:42 AM    <DIR>          .
+31-May-19  08:42 AM    <DIR>          ..
+31-May-19  08:26 AM                 7 aa.txt
+31-May-19  08:42 AM                 0 tst.txt
+               2 File(s)              7 bytes
+               2 Dir(s)  56,997,376,000 bytes free
